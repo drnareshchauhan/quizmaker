@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280881475708",
+    "firebase_url": "https://quizmaker-4f8c1-default-rtdb.firebaseio.com",
+    "project_id": "quizmaker-4f8c1",
+    "storage_bucket": "quizmaker-4f8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280881475708:android:307b296ebf5c29150659f9",
+        "android_client_info": {
+          "package_name": "com.naresh.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280881475708-2tg0em0b6iec2tj403g5o4niheu7pbl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZx1_WCspsjs1oSme_UsCKwKrmaSfg9sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280881475708-2tg0em0b6iec2tj403g5o4niheu7pbl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
